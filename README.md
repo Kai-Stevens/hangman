@@ -4,6 +4,9 @@ Console implementation of the game 'hangman' using node and javascript
 ## Play
 `npm run start` - Run the game
 
+## Twest
+`npm run test` - Run the `jest` tests
+
 ## How to play
 - Your aim is to guess a letter (from an array of 20 randomly sized words)
 - Enter a letter from a-z
