@@ -4,7 +4,7 @@ Console implementation of the game 'hangman' using node and javascript
 ## Play
 `npm run start` - Run the game
 
-## Twest
+## Test
 `npm run test` - Run the `jest` tests
 
 ## How to play
